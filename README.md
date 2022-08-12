@@ -22,6 +22,6 @@ With this graph it is easy to identify that by the end of the month of February,
 
 After analyzing the data provided, I have come up with the follwing business recommendations:
 
-1. Either create more ride routs or decrease the amount of drivers on urban cities. I recommend to consider both because the total number of urban drivers is grater than the total amount of rides, this would explain why the average fare per driver is lower on urban cities. Pyber may reduce their costs if they reduce the amount of drivers they have or they could expand the amount of routs there are in order to elevate the satisfaction level of their drivers. 
+1. Either create more routs or decrease the amount of drivers on urban cities. I recommend to consider both because the total number of urban drivers is grater than the total amount of rides, this would explain why the average fare per driver is lower on urban cities. Pyber may reduce their costs if they reduce the amount of drivers they have or they could expand the amount of routs there are in order to elevate the satisfaction level of their drivers. 
 2. If Pyber wants to have a successful marketing campaign, they should launch their campaign on the lasts days of February since this is the time where the most people use the rides. This way the company will have more reach and a better impact with their campaigns. 
-3. 
+3. Cosndier traking milage in order to understand better the information. Urban city drivers have a smaller fare per ride but this might also be bacause the routs in this type of cities are samller. Witht this information data can be analized better and better decisions can be made by the company. 
