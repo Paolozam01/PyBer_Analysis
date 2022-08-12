@@ -12,5 +12,9 @@ After merging the two different databases that where provided by the company, I 
 
 By simply looking at this data frame we can rapidly identify that the urban cities are the ones with the most rides and drivers, but the average fare per driver and the average fare per ride is the lowest of all the type of cities. Meanwhile, rural cities are the ones with the least drivers and rides but their avarage fare per driver and ride is the gratest. 
 
+With this information I also created a line graph in order to visualize the total fare by city type. With this graph it is easier to identify the trends within each type of city. This is the graph:
+
+
+
 ## Summary:
 
